@@ -12,4 +12,4 @@ public class CheckingCode {
  }
 }
 
-//Checking my test code, and running test
+//Checking my test code, and running the test
