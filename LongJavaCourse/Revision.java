@@ -19,8 +19,8 @@ public class Revision {
 
 
     public void check(){
-         int firstNum = 2;
-         int secondNum = 10;
+         int firstNum = 3;
+         int secondNum = 20;
          for(int i = 1; i <= secondNum; i++){
             System.out.println(firstNum + " * " + i + " = " + firstNum*i);
             
