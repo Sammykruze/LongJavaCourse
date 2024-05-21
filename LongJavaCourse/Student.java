@@ -20,7 +20,7 @@
 
         Student student2 = new Student();
         student2.rollNum = 1;
-        student2.name = "Aboyede";
+        student2.name = "Adedeji";
         student2.marks = 89;
 
         Student stud[] = new Student[3];
