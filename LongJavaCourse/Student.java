@@ -21,15 +21,15 @@
         Student student2 = new Student();
         student2.rollNum = 1;
         student2.name = "Babajide";
-        student2.marks = 89;
+        student2.marks = 90;
 
         Student stud[] = new Student[3];
         stud[0] = student;
         stud[1] = student1;
         stud[2] = student2;
 
-        for (Student student3 : stud) {
-            System.out.println(student3.name + " :" + student3.marks);
+        for (Student allStudent : stud) {
+            System.out.println(allStudent.name + " :" + allStudent.marks);
         }
         
     }
