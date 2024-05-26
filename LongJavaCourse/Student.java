@@ -15,7 +15,7 @@
 
         Student student1 = new Student();
         student1.rollNum = 1;
-        student1.name = "Bamidele";
+        student1.name = "Bidemi";
         student1.marks = 78;
 
         Student student2 = new Student();
