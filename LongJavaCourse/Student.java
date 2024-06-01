@@ -10,17 +10,17 @@
         Student student = new Student();
 
         student.rollNum = 1;
-        student.name = "Abiola";
+        student.name = "Enianu";
         student.marks = 56;
 
         Student student1 = new Student();
         student1.rollNum = 1;
-        student1.name = "Bidemi";
+        student1.name = "Agbeke";
         student1.marks = 78;
 
         Student student2 = new Student();
         student2.rollNum = 1;
-        student2.name = "Babajide";
+        student2.name = "Esther";
         student2.marks = 90;
 
         Student stud[] = new Student[3];
