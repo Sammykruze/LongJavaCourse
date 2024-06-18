@@ -4,7 +4,7 @@ public class Revision {
         System.out.println("I love you baby");  
 
         int sum = 0;
-        for(int i = 0; i <= 10; i++){
+        for(int i = 0; i <= 11; i++){
             sum = sum + i;
         }
         System.out.println(sum);
