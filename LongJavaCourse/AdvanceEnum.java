@@ -23,7 +23,7 @@ class EnumCheck{
     public static void main(String [] args){
        
         AdvanceEnum advanceEn = AdvanceEnum.Macbook;
-        advanceEn.setPrice(2100);
+        advanceEn.setPrice(2200);
 
         AdvanceEnum advanceE = AdvanceEnum.XPS;
         advanceE.setPrice(2500);
