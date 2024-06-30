@@ -10,7 +10,7 @@ public class Revision {
         System.out.println(sum);
 
 
-        int a[] = {3,23,6,56,7,8,78,9};
+        int a[] = {5,23,6,56,7,8,78,9};
         for (int i : a) {
             System.out.println(i);
         }      
